@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Footbal Score</string>
+    <string name="btn6">+6 Points</string>
+    <string name="btn3">+3 Points</string>
+    <string name="btn2">+2 Points</string>
+    <string name="btn1">+1 Point</string>
+</resources>
