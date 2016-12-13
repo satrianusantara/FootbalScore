@@ -81,6 +81,8 @@ public class MainActivity extends AppCompatActivity {
         quantityScoreB = 0;
         scoreA.setText("" + quantityScoreA);
         scoreB.setText("" + quantityScoreB);
+        board.setText("");
+        breakAB.setText("");
 
     }
 
